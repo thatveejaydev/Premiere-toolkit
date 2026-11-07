@@ -1,0 +1,17 @@
+/Compiled/
+/Sdk/
+# BevelAlpha local builds and generated files
+/BevelAlpha/build/
+/BevelAlpha/build-*/
+/BevelAlpha/render-build/
+/BevelAlpha/.vs/
+/BevelAlpha/CMakeCache.txt
+/BevelAlpha/CMakeFiles/
+/BevelAlpha/cmake_install.cmake
+/BevelAlpha/CTestTestfile.cmake
+/BevelAlpha/Testing/
+/BevelAlpha/build.ninja
+/BevelAlpha/.ninja_*
+/BevelAlpha/BevelAlphaPiPL.rc*
+/BevelAlpha/BevelCudaPtx.h
+/BevelAlpha/**/*.aex
